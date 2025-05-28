@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there, I'm Ilham Firmansyah!
 
-<!--
-**illhammf/illhammf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatics Engineering student at Universitas Esa Unggul  
+📍 Based in Tangerang, Indonesia  
+💻 I’m currently learning Python and Web Development  
+🚀 I’m working on my first Python project [`first`](https://github.com/illhammf/first)
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python 🐍
+- HTML & CSS 🌐
+- Learning JavaScript ⚙️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Improve my programming skills
+- Build a personal website
+- Contribute to open-source projects
+
+---
+
+> "Consistency is the key to progress." ✨  
+Let's connect and learn together!
