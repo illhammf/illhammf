@@ -1,21 +1,21 @@
-# 👋 Hi there, I'm Ilham Firmansyah!
+# 👋 Hello there! I'm Ilham Firmansyah
 
 🎓 Informatics Engineering student at Universitas Esa Unggul  
 📍 Based in Tangerang, Indonesia  
-💻 I’m currently learning Python and Web Development  
-🚀 I’m working on my first Python project [`first`](https://github.com/illhammf/first)
+💻 I'm currently learning programming and building my first project  
+🚀 My first repository: [`first`](https://github.com/illhammf/first)
 
-## 🛠️ Skills
+## 🛠️ Skills (Still Learning)
 - Python 🐍
-- HTML & CSS 🌐
-- Learning JavaScript ⚙️
+- C++ 🔧
+
+I'm still a beginner, but I'm excited to learn and grow step by step! 😄
 
 ## 🎯 Goals
-- Improve my programming skills
-- Build a personal website
-- Contribute to open-source projects
+- Explore more about programming
+- Improve problem-solving skills
+- Build simple apps and projects for practice
 
 ---
 
-> "Consistency is the key to progress." ✨  
-Let's connect and learn together!
+> "Everyone starts somewhere. Keep going!" 💪
