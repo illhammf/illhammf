@@ -3,7 +3,7 @@
 🎓 Informatics Engineering student at Universitas Esa Unggul  
 📍 Based in Tangerang, Indonesia  
 💻 I'm currently learning programming and building my first project  
-🚀 My first repository: [`first`](https://github.com/illhammf/first)
+🚀 My first repository: [`first`](https://github.com/illhammf/CodePythonPertama)
 
 ## 🛠️ Skills (Still Learning)
 - Python 🐍
