@@ -1,6 +1,10 @@
+---
+
 <p align="center">
-  <img src="Welcome.jpg" width="300"/>
+  <img src="Welcome.jpg" width="500"/>
 </p>
+
+---
 
 # 👋 Hello there! I'm Ilham Firmansyah
 
