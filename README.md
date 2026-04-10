@@ -8,6 +8,7 @@
 ## 🛠️ Skills (Still Learning)
 - Python 🐍
 - C++ 🔧
+- Java ⚒️
 
 I'm still a beginner, but I'm excited to learn and grow step by step! 😄
 
@@ -19,3 +20,4 @@ I'm still a beginner, but I'm excited to learn and grow step by step! 😄
 ---
 
 > "Everyone starts somewhere. Keep going!" 💪
+[Welcome](Welcome.jpg)
