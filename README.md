@@ -19,5 +19,6 @@ I'm still a beginner, but I'm excited to learn and grow step by step! 😄
 
 ---
 
-> "Everyone starts somewhere. Keep going!" 💪
+> "Everyone starts somewhere. Keep going!"
+> 
 [Welcome](Welcome.jpg)
