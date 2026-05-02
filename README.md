@@ -5,6 +5,8 @@
   <img src="fotoprofilupgrade.png" alt="Ilham Banner" width="100%" />
 </p>
 
+---
+
 <h1 align="center">👋 Hello, I'm Ilham Firmansyah</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=3B82F6&center=true&vCenter=true&width=700&lines=Informatics+Engineering+Student;Future+Fullstack+Developer;Always+Learning+New+Things;Welcome+to+My+GitHub+🚀;GASS+TERUSS!!!" />
@@ -36,13 +38,10 @@
 ---
 
 ## 📈 Currently Learning
-
-```text
 - Learning Web Development...
 - Improving Logic & Problem Solving...
 - Building Projects...
 - Becoming Better Everyday 🚀
-```
 
 ---
 
