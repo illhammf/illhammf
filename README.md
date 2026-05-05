@@ -2,14 +2,14 @@
 
 <!-- BANNER -->
 <p align="center">
-  <img src="fotoprofilupgrade.png" alt="Ilham Banner" width="100%" />
+  <img src="fotoprofileupgrade2.png" alt="Ilham Banner" width="100%" />
 </p>
 
 ---
 
-<h1 align="center">👋 Hello, I'm Ilham Firmansyah</h1>
+<h1 align="center">Hello, I'm Ilham Firmansyah 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=3B82F6&center=true&vCenter=true&width=700&lines=Informatics+Engineering+Student;Future+Fullstack+Developer;Always+Learning+New+Things;Welcome+to+My+GitHub+🚀;GASS+TERUSS!!!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=3B82F6&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+🚀;I'm+Ilham+Firmansyah;I'm+from;Informatics+Engineering+Student;Future+Fullstack+Developer;Data+Analysis;Always+Learning+New+Things;FASILKOM...;GASS+TERUSS!!!" />
   
 </p>
 <p align="center">
