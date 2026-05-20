@@ -7,7 +7,6 @@
 
 ---
 
-<h1 align="center">Hello, I'm Ilham Firmansyah 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=3B82F6&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+🚀;I'm+Ilham+Firmansyah;I'm+from;Informatics+Engineering+Student;Future+Fullstack+Developer;Data+Analysis;Always+Learning+New+Things;FASILKOM...;GASS+TERUSS!!!" />
   
@@ -26,6 +25,11 @@
 - 💻 Passionate about **Programming & Technology**
 - 🔥 Currently building projects and improving skills
 - 🚀 Love exploring new tech and challenges
+
+---
+
+## 🌐 Connect With Me
+<p align="center"> <a href="https://instagram.com/illhammf?igshid=YmMyMTA2M2Y="> <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://facebook.com/profile.php?id=100027916153991"> <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> <a href="https://www.youtube.com/channel/UCbGV7u_EbR6FJVrnF_rMYOQ"> <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a> </p>
 
 ---
 
@@ -54,11 +58,6 @@
 
 ---
 
-## 🌐 Connect With Me
-<p align="center"> <a href="https://instagram.com/illhammf?igshid=YmMyMTA2M2Y="> <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://facebook.com/profile.php?id=100027916153991"> <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> <a href="https://www.youtube.com/channel/UCbGV7u_EbR6FJVrnF_rMYOQ"> <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a> </p>
-
----
-
 ## ⚡ Fun Fact
 "Everyone starts somewhere. Keep going 🚀"
 
@@ -74,10 +73,5 @@
 
 ## 🔥 Activity Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=illhammf&theme=tokyo-night&hide_border=true"/> </p>
-
----
-
-## 🔥 Quote
-**"Code. Learn. Build. Impact."**
 
 ---
