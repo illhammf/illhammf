@@ -63,9 +63,17 @@
 
 ---
 
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=illhammf&theme=tokyonight&row=1&column=7"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=illhammf&show_icons=true&theme=tokyonight" /> 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=illhammf&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=illhammf&theme=tokyonight" /> 
 </p>
 
@@ -73,5 +81,11 @@
 
 ## 🔥 Activity Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=illhammf&theme=tokyo-night&hide_border=true"/> </p>
+
+---
+
+## 📊 Profile Summary
+
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=illhammf&theme=tokyonight"/> </p>
 
 ---
