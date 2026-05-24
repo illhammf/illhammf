@@ -63,6 +63,7 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=illhammf&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"/>
 </p>
+
 ---
 
 ## 🏆 GitHub Trophy
@@ -89,5 +90,13 @@
 ## 📊 Profile Summary
 
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=illhammf&theme=tokyonight"/> </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/illhammf/illhammf/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
