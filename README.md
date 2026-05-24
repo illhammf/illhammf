@@ -58,9 +58,11 @@
 
 ---
 
-## ⚡ Fun Fact
-"Everyone starts somewhere. Keep going 🚀"
+## 💻 Most Used Languages
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=illhammf&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"/>
+</p>
 ---
 
 ## 🏆 GitHub Trophy
