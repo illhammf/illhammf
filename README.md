@@ -42,22 +42,6 @@
 
 ---
 
-## 📈 Currently Learning
-- Learning Web Development...
-- Improving Logic & Problem Solving...
-- Building Projects...
-- Becoming Better Everyday 🚀
-
----
-
-## 🎯 Goals
-- 🚀 Become a professional developer
-- 🧠 Improve problem-solving skills
-- 💡 Build useful and real-world projects
-- 🌍 Contribute to open-source
-
----
-
 ## 💻 Most Used Languages
 
 <p align="center">
@@ -78,18 +62,13 @@
 <p align="center"> 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=illhammf&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=illhammf&theme=tokyonight" /> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=illhammf&theme=tokyonight"/> </p>
 </p>
 
 ---
 
 ## 🔥 Activity Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=illhammf&theme=tokyo-night&hide_border=true"/> </p>
-
----
-
-## 📊 Profile Summary
-
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=illhammf&theme=tokyonight"/> </p>
 
 ---
 
