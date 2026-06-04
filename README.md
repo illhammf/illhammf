@@ -53,16 +53,18 @@
 ## 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=illhammf&theme=tokyonight&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=illhammf&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center"> 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=illhammf&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=illhammf&theme=tokyonight" /> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=illhammf&theme=tokyonight"/> </p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=illhammf&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=illhammf&theme=tokyonight" />
 </p>
 
 ---
