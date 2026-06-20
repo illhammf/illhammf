@@ -27,7 +27,7 @@
 
 ## Tech Arsenal
 
-### 🌐 Web Development
+### Web Development
 
 <p align="center">
 
@@ -39,7 +39,7 @@
 
 </p>
 
-### 🗄️ Database
+### Database
 
 <p align="center">
 
@@ -48,7 +48,7 @@
 
 </p>
 
-### 🤖 Data & Programming
+### Data & Programming
 
 <p align="center">
 
@@ -58,7 +58,7 @@
 
 </p>
 
-### 🐳 DevOps & Infrastructure
+### DevOps & Infrastructure
 
 <p align="center">
 
@@ -69,7 +69,7 @@
 
 </p>
 
-### 🛠️ Development Tools
+### Development Tools
 
 <p align="center">
 
