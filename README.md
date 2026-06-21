@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Status-Learning%20Everyday-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Role-%20Student-blue?style=for-the-badge" />
 </p>
-<p align="center"> <a href="https://instagram.com/illhammf?igshid=YmMyMTA2M2Y="> <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://facebook.com/profile.php?id=100027916153991"> <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> <a href="https://www.youtube.com/channel/UCbGV7u_EbR6FJVrnF_rMYOQ"> <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a> </p>
+<p align="center"> <a href="https://instagram.com/illhammf?igshid=YmMyMTA2M2Y="> <img src="https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://facebook.com/profile.php?id=100027916153991"> <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> <a href="https://www.youtube.com/channel/UCbGV7u_EbR6FJVrnF_rMYOQ"> <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a> </p>
 
 ---
 
