@@ -3,7 +3,7 @@
 
 <!-- BANNER -->
 <p align="center">
-  <img src="fotoprofileupgrade2.png" alt="Ilham Banner" width="100%" />
+  <img src="fotoprofileupgrade3.png" alt="Ilham Banner" width="100%" />
 </p>
 
 </p>
