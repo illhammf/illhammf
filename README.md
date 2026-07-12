@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=2800&pause=700&color=3B82F6&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ilham+Firmansyah+%F0%9F%91%8B;Informatics+Engineering+Student+%F0%9F%8E%93;Laravel+%7C+Docker+%7C+Filament+Explorer+%F0%9F%9A%80;Machine+Learning+%26+Data+Analysis+Learner+%F0%9F%A7%A0;Building+Tukang+Print+Dadakan+%F0%9F%96%A8%EF%B8%8F;Coding%2C+Learning%2C+Building%2C+Repeating+%E2%9A%A1;From+FASILKOM+to+The+Future+%F0%9F%94%A5;GASS+TERUSS+SAMPAI+JADI+%F0%9F%9A%80" />
-
 <!-- BANNER -->
 <p align="center">
   <img src="fotoprofileupgrade4.png" alt="Ilham Banner" width="100%" />
