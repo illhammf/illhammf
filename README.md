@@ -33,7 +33,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-DB1514?style=for-the-badge&logo=laravel&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-F59E0B?style=for-the-badge&logo=filament&logoColor=black)
+![Filament](https://img.shields.io/badge/Filament-F59E0B?style=for-the-badge&logo=filament&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-fb70a9?style=for-the-badge&logo=livewire&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-1C1C1C?style=for-the-badge&logo=rust&logoColor=white)
 
 </p>
