@@ -127,14 +127,6 @@
 
 ---
 
-## Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/illhammf" />
-</p>
-
----
-
 ## Contribution Snake
 
 <p align="center">
