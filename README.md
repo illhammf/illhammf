@@ -3,14 +3,6 @@
   <img src="fotoprofileupgrade4.png" alt="Ilham Banner" width="100%" />
 </p>
 
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Tangerang,%20Indonesia-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Learning%20Everyday-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Role-%20Student-blue?style=for-the-badge" />
-</p>
-<p align="center"> <a href="https://instagram.com/illhammf?igshid=YmMyMTA2M2Y="> <img src="https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://facebook.com/profile.php?id=100027916153991"> <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> <a href="https://www.youtube.com/channel/UCbGV7u_EbR6FJVrnF_rMYOQ"> <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a> </p>
-
 ---
 
 ## About Me
@@ -88,42 +80,6 @@
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 </p>
-
----
-
-## Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=illhammf&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=illhammf&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=illhammf&theme=tokyonight" />
-</p>
-
----
-
-## Detailed Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=illhammf&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=illhammf&theme=tokyonight&utcOffset=7" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=illhammf&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center"> 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=illhammf&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=illhammf&theme=tokyonight" />
-</p>
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=illhammf&theme=tokyo-night&hide_border=true"/> </p>
 
 ---
 
