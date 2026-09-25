@@ -94,4 +94,29 @@
   </picture>
 </p>
 
+<br>
+
+## Pacman Contribution Animation
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/illhammf/illhammf/output/dist/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/illhammf/illhammf/output/dist/pacman-contribution-graph-light.svg"
+    />
+    <img
+      alt="Pacman contribution animation"
+      src="https://raw.githubusercontent.com/illhammf/illhammf/output/dist/pacman-contribution-graph-light.svg"
+    />
+  </picture>
+</p>
+
+> A dedicated developer focused on clean code, continuous learning, and meaningful collaborations.
+
+<br>
+
 ---
