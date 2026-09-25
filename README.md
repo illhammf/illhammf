@@ -102,15 +102,15 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/illhammf/illhammf/output/dist/pacman-contribution-graph-dark.svg"
+      srcset="https://raw.githubusercontent.com/illhammf/illhammf/output/pacman-contribution-graph-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/illhammf/illhammf/output/dist/pacman-contribution-graph-light.svg"
+      srcset="https://raw.githubusercontent.com/illhammf/illhammf/output/pacman-contribution-graph.svg"
     />
     <img
       alt="Pacman contribution animation"
-      src="https://raw.githubusercontent.com/illhammf/illhammf/output/dist/pacman-contribution-graph-light.svg"
+      src="https://raw.githubusercontent.com/illhammf/illhammf/output/pacman-contribution-graph.svg"
     />
   </picture>
 </p>
