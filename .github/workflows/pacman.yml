@@ -3,7 +3,6 @@ name: Generate Pacman Contribution Graph
 on:
   schedule:
     - cron: "0 */12 * * *"
-
   workflow_dispatch:
 
 permissions:
@@ -12,18 +11,18 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
-      - name: Generate Pacman contribution graph
+      - name: Generate Pacman Contribution Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: illhammf
 
-      - name: Push Pacman to output branch
+      - name: Deploy Pacman to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
-          branch: output
+          target_branch: output
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
