@@ -96,7 +96,7 @@
 
 <br>
 
-## Pacman Contribution Animation
+## Contribution Pacman
 
 <p align="center">
   <picture>
@@ -114,8 +114,6 @@
     />
   </picture>
 </p>
-
-> A dedicated developer focused on clean code, continuous learning, and meaningful collaborations.
 
 <br>
 
