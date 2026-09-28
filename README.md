@@ -14,71 +14,135 @@
 
 ---
 
-## Tech Arsenal
-
-### Web Development
+## ⚙️ Tech Arsenal
 
 <p align="center">
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.Js](https://img.shields.io/badge/Node.Js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-DB1514?style=for-the-badge&logo=laravel&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-F59E0B?style=for-the-badge&logo=filament&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-fb70a9?style=for-the-badge&logo=livewire&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-6B1EB9?style=for-the-badge&logo=vite&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-1C1C1C?style=for-the-badge&logo=rust&logoColor=white)
+<img src="https://techstack-generator.vercel.app/python-icon.svg" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" />
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" />
 
 </p>
 
-### Database
+
+<h3 align="center">💻 Programming Languages</h3>
 
 <p align="center">
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDb-C0765A?style=for-the-badge&logo=mariadb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,javascript,typescript,rust,dart&theme=dark" />
 
 </p>
 
-### Data & Programming
+
+<br>
+
+
+<h3 align="center">📱 Mobile & Frontend Development</h3>
 
 <p align="center">
 
-![C](https://img.shields.io/badge/C-000080?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-9179E4?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
+<img src="https://techstack-generator.vercel.app/flutter-icon.svg" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" />
+<img src="https://techstack-generator.vercel.app/html-icon.svg" />
+<img src="https://techstack-generator.vercel.app/css-icon.svg" />
 
 </p>
 
-### DevOps & Infrastructure
 
 <p align="center">
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,html,css,bootstrap,tailwind,vite&theme=dark" />
 
 </p>
 
-### Development Tools
+
+<br>
+
+
+<h3 align="center">🔌 IoT & Embedded System</h3>
 
 <p align="center">
 
-![Visual Studio Community](https://img.shields.io/badge/Visual_Studio_Community-8A00C4?style=for-the-badge&logo=visualstudiocommunity&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FFCC33?style=for-the-badge&logo=linux&logoColor=black)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp,linux&theme=dark" />
+
+</p>
+
+<p align="center">
+
+⚡ ESP32  
+<br>
+🤖 Robotics Development  
+<br>
+📡 Sensor Integration  
+<br>
+🔧 Embedded Programming  
+
+</p>
+
+
+<br>
+
+
+<h3 align="center">🌐 Backend Development</h3>
+
+<p align="center">
+
+<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" />
+<img src="https://techstack-generator.vercel.app/php-icon.svg" />
+
+</p>
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,filament,livewire&theme=dark" />
+
+</p>
+
+
+<br>
+
+
+<h3 align="center">🗄️ Database & Storage</h3>
+
+<p align="center">
+
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" />
+<img src="https://skillicons.dev/icons?i=postgres,mariadb,mongodb,sqlite,firebase&theme=dark" />
+
+</p>
+
+
+<br>
+
+
+<h3 align="center">☁️ DevOps & Infrastructure</h3>
+
+<p align="center">
+
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" />
+<img src="https://techstack-generator.vercel.app/git-icon.svg" />
+
+</p>
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,git,github,linux,windows&theme=dark" />
+
+</p>
+
+
+<br>
+
+
+<h3 align="center">🛠 Development Tools</h3>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,postman,androidstudio&theme=dark" />
 
 </p>
 
