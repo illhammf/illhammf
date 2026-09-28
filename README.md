@@ -16,133 +16,54 @@
 
 ## ⚙️ Tech Arsenal
 
-<p align="center">
-
-<img src="https://techstack-generator.vercel.app/python-icon.svg" />
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" />
-<img src="https://techstack-generator.vercel.app/csharp-icon.svg" />
-
-</p>
-
-
 <h3 align="center">💻 Programming Languages</h3>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,javascript,typescript,rust,dart&theme=dark" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="45"/>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="45"/>
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="45"/>
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="45"/>
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="45"/>
 
 </p>
 
 
-<br>
-
-
-<h3 align="center">📱 Mobile & Frontend Development</h3>
+<h3 align="center">📱 Mobile Development</h3>
 
 <p align="center">
 
-<img src="https://techstack-generator.vercel.app/flutter-icon.svg" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" />
-<img src="https://techstack-generator.vercel.app/html-icon.svg" />
-<img src="https://techstack-generator.vercel.app/css-icon.svg" />
+<img src="https://techstack-generator.vercel.app/flutter-icon.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=dart,flutter,react&theme=dark" height="45"/>
 
 </p>
 
+
+<h3 align="center">🗄 Database</h3>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,html,css,bootstrap,tailwind,vite&theme=dark" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=postgres,mariadb,mongodb,firebase&theme=dark" height="45"/>
 
 </p>
-
-
-<br>
 
 
 <h3 align="center">🔌 IoT & Embedded System</h3>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp,linux&theme=dark" />
-
-</p>
-
-<p align="center">
-
-⚡ ESP32  
-<br>
-🤖 Robotics Development  
-<br>
-📡 Sensor Integration  
-<br>
-🔧 Embedded Programming  
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp,linux&theme=dark" height="45"/>
 
 </p>
 
 
-<br>
-
-
-<h3 align="center">🌐 Backend Development</h3>
+<h3 align="center">☁️ DevOps</h3>
 
 <p align="center">
 
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" />
-<img src="https://techstack-generator.vercel.app/php-icon.svg" />
-
-</p>
-
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,filament,livewire&theme=dark" />
-
-</p>
-
-
-<br>
-
-
-<h3 align="center">🗄️ Database & Storage</h3>
-
-<p align="center">
-
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" />
-<img src="https://skillicons.dev/icons?i=postgres,mariadb,mongodb,sqlite,firebase&theme=dark" />
-
-</p>
-
-
-<br>
-
-
-<h3 align="center">☁️ DevOps & Infrastructure</h3>
-
-<p align="center">
-
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" />
-<img src="https://techstack-generator.vercel.app/git-icon.svg" />
-
-</p>
-
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,nginx,git,github,linux,windows&theme=dark" />
-
-</p>
-
-
-<br>
-
-
-<h3 align="center">🛠 Development Tools</h3>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,postman,androidstudio&theme=dark" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,nginx&theme=dark" height="45"/>
 
 </p>
 
