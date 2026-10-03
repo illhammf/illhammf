@@ -11,7 +11,7 @@
 - Passionate about **Programming & Technology**
 - Currently building projects and improving skills
 - Love exploring new tech and challenges
-- Always learn from mistakes
+- **Always learn** from mistakes
 - The most meaningful life is one that brings benefit to others
 
 ---
