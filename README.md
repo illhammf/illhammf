@@ -99,7 +99,7 @@
 
 <br>
 
-## Contribution Pacman
+## Contribution Pacman (still unstable)
 
 <p align="center">
   <picture>
