@@ -1,8 +1,8 @@
 <!-- BANNER -->
 <p align="center">
   <img
-    src="./assets/header-banner-v2.svg"
-    alt="Ilham Firmansyah Futuristic Banner"
+    src="./assets/header-banner-v3.svg"
+    alt="Ilham Firmansyah Futuristic Engineering Banner"
     width="100%"
   />
 </p>
