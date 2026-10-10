@@ -1,0 +1,233 @@
+from pathlib import Path
+
+svg = r'''<svg width="1400" height="460" viewBox="0 0 1400 460" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="40" y1="20" x2="1360" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.45" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="120" y1="0" x2="1180" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22C55E"/>
+      <stop offset="0.33" stop-color="#38BDF8"/>
+      <stop offset="0.66" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#F43F5E"/>
+    </linearGradient>
+
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#172033" stop-opacity="0.96"/>
+      <stop offset="1" stop-color="#0B1220" stop-opacity="0.88"/>
+    </linearGradient>
+
+    <radialGradient id="orbGreen" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22C55E" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#22C55E" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="orbBlue" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.48"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="orbPurple" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.46"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#233047" stroke-width="1"/>
+    </pattern>
+
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+
+    <clipPath id="panelClip">
+      <rect x="790" y="74" width="520" height="300" rx="24"/>
+    </clipPath>
+
+    <style>
+      .ui { font-family: "Segoe UI", Arial, sans-serif; }
+      .mono { font-family: Consolas, "Courier New", monospace; }
+      .title { font-size: 52px; font-weight: 800; letter-spacing: 1.5px; fill: #F8FAFC; }
+      .subtitle { font-size: 21px; font-weight: 600; fill: #CBD5E1; }
+      .body { font-size: 16px; font-weight: 500; fill: #94A3B8; }
+      .small { font-size: 13px; font-weight: 700; letter-spacing: 1.2px; fill: #93A4BC; }
+      .terminal { font-size: 15px; fill: #D7E1EF; }
+      .chip { font-size: 14px; font-weight: 700; fill: #E5EDF7; }
+      .dim { fill: #7F8FA7; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect x="1.5" y="1.5" width="1397" height="457" rx="30" fill="url(#bg)" stroke="#1F2937" stroke-width="3"/>
+  <rect x="2" y="2" width="1396" height="456" rx="29" fill="url(#grid)" opacity="0.30"/>
+
+  <!-- Animated ambient orbs -->
+  <circle cx="230" cy="70" r="190" fill="url(#orbGreen)" opacity="0.7">
+    <animate attributeName="cx" values="230;310;230" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="70;120;70" dur="11s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1210" cy="90" r="220" fill="url(#orbBlue)" opacity="0.75">
+    <animate attributeName="cx" values="1210;1130;1210" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="90;140;90" dur="12s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="980" cy="430" r="210" fill="url(#orbPurple)" opacity="0.65">
+    <animate attributeName="cx" values="980;1050;980" dur="12s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Accent sweep -->
+  <rect x="0" y="0" width="250" height="460" fill="url(#accent)" opacity="0.035">
+    <animate attributeName="x" values="-300;1450" dur="8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Left eyebrow -->
+  <g class="ui">
+    <text x="76" y="72" class="small">DEVELOPER PROFILE • BUILD • LEARN • IMPROVE</text>
+    <rect x="76" y="86" width="330" height="4" rx="2" fill="url(#accent)" filter="url(#glow)">
+      <animate attributeName="width" values="110;330;110" dur="5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Main identity -->
+  <text x="76" y="150" class="ui title">ILHAM FIRMANSYAH</text>
+  <text x="76" y="188" class="ui subtitle">Software Developer • Engineering • Technology</text>
+
+  <text x="76" y="228" class="ui body">Membangun solusi yang rapi, terukur, dan terus berkembang melalui pembelajaran serta kolaborasi.</text>
+
+  <!-- Status line -->
+  <g class="ui">
+    <circle cx="84" cy="268" r="6" fill="#22C55E" filter="url(#glow)">
+      <animate attributeName="opacity" values="0.35;1;0.35" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="102" y="274" class="small" fill="#A7F3D0">CURRENT STATUS</text>
+    <text x="230" y="274" class="body">Open to learning, building, and meaningful collaboration</text>
+  </g>
+
+  <!-- Skill chips -->
+  <g class="ui" filter="url(#softShadow)">
+    <g transform="translate(76 305)">
+      <rect width="84" height="36" rx="18" fill="#111C2D" stroke="#29405A"/>
+      <text x="42" y="23" text-anchor="middle" class="chip">Python</text>
+    </g>
+    <g transform="translate(170 305)">
+      <rect width="68" height="36" rx="18" fill="#111C2D" stroke="#29405A"/>
+      <text x="34" y="23" text-anchor="middle" class="chip">Java</text>
+    </g>
+    <g transform="translate(248 305)">
+      <rect width="88" height="36" rx="18" fill="#111C2D" stroke="#29405A"/>
+      <text x="44" y="23" text-anchor="middle" class="chip">C / C++</text>
+    </g>
+    <g transform="translate(346 305)">
+      <rect width="84" height="36" rx="18" fill="#111C2D" stroke="#29405A"/>
+      <text x="42" y="23" text-anchor="middle" class="chip">Docker</text>
+    </g>
+    <g transform="translate(440 305)">
+      <rect width="74" height="36" rx="18" fill="#111C2D" stroke="#29405A"/>
+      <text x="37" y="23" text-anchor="middle" class="chip">GitHub</text>
+    </g>
+    <g transform="translate(524 305)">
+      <rect width="78" height="36" rx="18" fill="#111C2D" stroke="#29405A"/>
+      <text x="39" y="23" text-anchor="middle" class="chip">Linux</text>
+    </g>
+  </g>
+
+  <!-- Bottom mini metrics -->
+  <g class="ui">
+    <text x="76" y="386" class="small">FOCUS</text>
+    <text x="76" y="409" class="body">Clean Code • Systems Thinking • Continuous Learning</text>
+
+    <text x="510" y="386" class="small">MINDSET</text>
+    <text x="510" y="409" class="body">Learn → Build → Test → Improve</text>
+  </g>
+
+  <!-- Divider / circuit spine -->
+  <path d="M730 86V374" stroke="#233047" stroke-width="2" stroke-dasharray="8 10"/>
+  <circle cx="730" cy="135" r="5" fill="#38BDF8">
+    <animate attributeName="cy" values="110;350;110" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Right panel -->
+  <g filter="url(#softShadow)">
+    <rect x="790" y="74" width="520" height="300" rx="24" fill="url(#glass)" stroke="#2C3B52"/>
+    <rect x="790" y="74" width="520" height="42" rx="24" fill="#121A28"/>
+    <rect x="790" y="96" width="520" height="20" fill="#121A28"/>
+
+    <circle cx="820" cy="95" r="6" fill="#EF4444"/>
+    <circle cx="842" cy="95" r="6" fill="#F59E0B"/>
+    <circle cx="864" cy="95" r="6" fill="#22C55E"/>
+
+    <text x="890" y="101" class="mono dim" font-size="13">~/profile/dashboard</text>
+
+    <g clip-path="url(#panelClip)">
+      <!-- Terminal rows -->
+      <text x="820" y="146" class="mono terminal">$ whoami</text>
+      <text x="930" y="146" class="mono terminal" fill="#86EFAC">Ilham Firmansyah</text>
+
+      <text x="820" y="178" class="mono terminal">$ role</text>
+      <text x="910" y="178" class="mono terminal">developer / engineer / learner</text>
+
+      <text x="820" y="210" class="mono terminal">$ stack</text>
+      <text x="916" y="210" class="mono terminal">python • java • c/c++ • docker</text>
+
+      <text x="820" y="242" class="mono terminal">$ tools</text>
+      <text x="916" y="242" class="mono terminal">git • github • vscode • linux</text>
+
+      <text x="820" y="274" class="mono terminal">$ status</text>
+      <text x="924" y="274" class="mono terminal" fill="#7DD3FC">building meaningful projects...</text>
+
+      <text x="820" y="306" class="mono terminal">$ mindset</text>
+      <text x="944" y="306" class="mono terminal" fill="#C4B5FD">learn → build → improve</text>
+
+      <text x="820" y="338" class="mono terminal">$ ready_to_collab</text>
+      <text x="1008" y="338" class="mono terminal" fill="#86EFAC">true</text>
+
+      <!-- Cursor -->
+      <rect x="1060" y="326" width="10" height="16" fill="#22C55E">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+
+      <!-- Moving scanline -->
+      <rect x="800" y="118" width="500" height="2" fill="url(#accent)" opacity="0.45">
+        <animate attributeName="y" values="118;360;118" dur="7s" repeatCount="indefinite"/>
+      </rect>
+
+      <!-- tiny code columns -->
+      <g opacity="0.22">
+        <rect x="1160" y="136" width="90" height="6" rx="3" fill="#38BDF8"/>
+        <rect x="1180" y="150" width="70" height="6" rx="3" fill="#8B5CF6"/>
+        <rect x="1145" y="164" width="105" height="6" rx="3" fill="#22C55E"/>
+        <rect x="1175" y="178" width="75" height="6" rx="3" fill="#F43F5E"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- Animated circuit nodes -->
+  <g opacity="0.75">
+    <path d="M650 120H710M650 180H710M650 240H710M650 300H710" stroke="#2A3A50" stroke-width="2"/>
+    <circle cx="650" cy="120" r="4" fill="#38BDF8"/>
+    <circle cx="650" cy="180" r="4" fill="#22C55E"/>
+    <circle cx="650" cy="240" r="4" fill="#8B5CF6"/>
+    <circle cx="650" cy="300" r="4" fill="#F43F5E"/>
+  </g>
+
+  <!-- Bottom animated gradient line -->
+  <rect x="76" y="438" width="1248" height="3" rx="1.5" fill="#172033"/>
+  <rect x="76" y="438" width="260" height="3" rx="1.5" fill="url(#accent)" filter="url(#glow)">
+    <animate attributeName="x" values="76;1064;76" dur="7s" repeatCount="indefinite"/>
+  </rect>
+</svg>
+'''
+
+out = Path("/mnt/data/header-banner-premium.svg")
+out.write_text(svg, encoding="utf-8")
+print(out)
