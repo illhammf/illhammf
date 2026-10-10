@@ -1,14 +1,10 @@
+<!-- BANNER -->
 <p align="center">
   <img
     src="./assets/header-banner-v2.svg"
     alt="Ilham Firmansyah Futuristic Banner"
     width="100%"
   />
-</p>
-
-<!-- BANNER -->
-<p align="center">
-  <img src="fotoprofileupgrade4.png" alt="Ilham Banner" width="100%" />
 </p>
 
 ---
