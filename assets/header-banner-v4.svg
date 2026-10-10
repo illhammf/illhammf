@@ -1,0 +1,293 @@
+<svg width="1800" height="600" viewBox="0 0 1800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1800" y2="600" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="45%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1800" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#22C55E"/>
+      <stop offset="30%" stop-color="#38BDF8"/>
+      <stop offset="65%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#F43F5E"/>
+    </linearGradient>
+
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#121A2B"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1F2937" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect x="2" y="2" width="1796" height="596" rx="32" fill="url(#bg)" stroke="#1F2937" stroke-width="3"/>
+  <rect x="2" y="2" width="1796" height="596" rx="32" fill="url(#grid)" opacity="0.28"/>
+
+  <!-- Moving ambient light -->
+  <rect x="-280" y="0" width="280" height="600" fill="url(#accent)" opacity="0.05">
+    <animate attributeName="x" values="-280;1840" dur="10s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Top strip -->
+  <text x="78" y="42" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.8">
+    AI ENGINEERING COMMAND CENTER • FUTURISTIC DEVELOPER PROFILE • BUILD / LEARN / IMPROVE
+  </text>
+
+  <rect x="78" y="56" width="420" height="4" rx="2" fill="url(#accent)">
+    <animate attributeName="width" values="160;420;160" dur="5.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Left hero -->
+  <text x="78" y="132" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="800" letter-spacing="1.6">
+    ILHAM FIRMANSYAH
+  </text>
+
+  <text x="78" y="175" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="600">
+    Software Developer • Engineering • Technology
+  </text>
+
+  <text x="78" y="228" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="500">
+    Membangun solusi yang rapi, adaptif, dan bernilai melalui clean code,
+  </text>
+  <text x="78" y="257" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="500">
+    systems thinking, pembelajaran berkelanjutan, dan kolaborasi yang efektif.
+  </text>
+
+  <!-- Status -->
+  <circle cx="87" cy="305" r="7" fill="#22C55E">
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="107" y="311" fill="#A7F3D0" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.2">
+    STATUS : ACTIVE / READY TO BUILD / OPEN TO COLLABORATE
+  </text>
+
+  <!-- Tech chips -->
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#E5E7EB">
+    <rect x="78" y="346" width="100" height="36" rx="18" fill="#111827" stroke="#334155"/>
+    <text x="128" y="369" text-anchor="middle">Python</text>
+
+    <rect x="190" y="346" width="78" height="36" rx="18" fill="#111827" stroke="#334155"/>
+    <text x="229" y="369" text-anchor="middle">Java</text>
+
+    <rect x="280" y="346" width="98" height="36" rx="18" fill="#111827" stroke="#334155"/>
+    <text x="329" y="369" text-anchor="middle">C / C++</text>
+
+    <rect x="390" y="346" width="92" height="36" rx="18" fill="#111827" stroke="#334155"/>
+    <text x="436" y="369" text-anchor="middle">Docker</text>
+
+    <rect x="494" y="346" width="92" height="36" rx="18" fill="#111827" stroke="#334155"/>
+    <text x="540" y="369" text-anchor="middle">GitHub</text>
+
+    <rect x="598" y="346" width="82" height="36" rx="18" fill="#111827" stroke="#334155"/>
+    <text x="639" y="369" text-anchor="middle">Linux</text>
+
+    <rect x="692" y="346" width="96" height="36" rx="18" fill="#111827" stroke="#334155"/>
+    <text x="740" y="369" text-anchor="middle">VS Code</text>
+  </g>
+
+  <!-- Left cards -->
+  <rect x="78" y="414" width="250" height="64" rx="16" fill="#0F172A" stroke="#233047"/>
+  <text x="96" y="438" fill="#93A4BC" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">FOCUS</text>
+  <text x="96" y="462" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="15">Clean Code • Problem Solving</text>
+
+  <rect x="345" y="414" width="250" height="64" rx="16" fill="#0F172A" stroke="#233047"/>
+  <text x="363" y="438" fill="#93A4BC" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">MINDSET</text>
+  <text x="363" y="462" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="15">Learn → Build → Test → Improve</text>
+
+  <rect x="612" y="414" width="280" height="64" rx="16" fill="#0F172A" stroke="#233047"/>
+  <text x="630" y="438" fill="#93A4BC" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">COLLABORATION</text>
+  <text x="630" y="462" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="15">Open to meaningful and useful projects</text>
+
+  <rect x="78" y="495" width="814" height="52" rx="16" fill="#0F172A" stroke="#233047"/>
+  <text x="98" y="518" fill="#93A4BC" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">CORE PRINCIPLE</text>
+  <text x="98" y="539" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="15">
+    Terus belajar, membangun solusi yang berdampak, dan berkembang melalui proses yang konsisten.
+  </text>
+
+  <!-- Center spine -->
+  <path d="M930 78V548" stroke="#233047" stroke-width="2" stroke-dasharray="8 10"/>
+  <circle cx="930" cy="124" r="5" fill="#22C55E">
+    <animate attributeName="cy" values="115;525;115" dur="6.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Main control room -->
+  <rect x="980" y="68" width="760" height="470" rx="26" fill="url(#panel)" stroke="#334155"/>
+  <rect x="980" y="68" width="760" height="42" rx="26" fill="#111827"/>
+  <rect x="980" y="89" width="760" height="21" fill="#111827"/>
+
+  <circle cx="1010" cy="89" r="5.5" fill="#EF4444"/>
+  <circle cx="1030" cy="89" r="5.5" fill="#F59E0B"/>
+  <circle cx="1050" cy="89" r="5.5" fill="#22C55E"/>
+
+  <text x="1080" y="94" fill="#94A3B8" font-family="Consolas, monospace" font-size="12">
+    ~/ai-engineering/command-center/main-dashboard
+  </text>
+
+  <!-- Terminal block -->
+  <text x="1010" y="140" fill="#E2E8F0" font-family="Consolas, monospace" font-size="16">$ whoami</text>
+  <text x="1122" y="140" fill="#86EFAC" font-family="Consolas, monospace" font-size="16">Ilham Firmansyah</text>
+
+  <text x="1010" y="172" fill="#E2E8F0" font-family="Consolas, monospace" font-size="16">$ role</text>
+  <text x="1094" y="172" fill="#D7E1EF" font-family="Consolas, monospace" font-size="16">software developer / engineering enthusiast</text>
+
+  <text x="1010" y="204" fill="#E2E8F0" font-family="Consolas, monospace" font-size="16">$ stack</text>
+  <text x="1098" y="204" fill="#D7E1EF" font-family="Consolas, monospace" font-size="16">python • java • c/c++ • docker • github</text>
+
+  <text x="1010" y="236" fill="#E2E8F0" font-family="Consolas, monospace" font-size="16">$ tools</text>
+  <text x="1098" y="236" fill="#D7E1EF" font-family="Consolas, monospace" font-size="16">git • linux • vscode • engineering workflow</text>
+
+  <text x="1010" y="268" fill="#E2E8F0" font-family="Consolas, monospace" font-size="16">$ status</text>
+  <text x="1102" y="268" fill="#7DD3FC" font-family="Consolas, monospace" font-size="16">building meaningful projects...</text>
+
+  <text x="1010" y="300" fill="#E2E8F0" font-family="Consolas, monospace" font-size="16">$ mode</text>
+  <text x="1090" y="300" fill="#C4B5FD" font-family="Consolas, monospace" font-size="16">continuous learning enabled</text>
+
+  <text x="1010" y="332" fill="#E2E8F0" font-family="Consolas, monospace" font-size="16">$ ready_to_collab</text>
+  <text x="1218" y="332" fill="#86EFAC" font-family="Consolas, monospace" font-size="16">true</text>
+
+  <rect x="1267" y="318" width="10" height="17" fill="#22C55E">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Radar module -->
+  <rect x="1010" y="364" width="230" height="148" rx="18" fill="#0F172A" stroke="#233047"/>
+  <text x="1028" y="388" fill="#93A4BC" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">SIGNAL RADAR</text>
+
+  <circle cx="1124" cy="445" r="50" fill="none" stroke="#233047" stroke-width="1.5"/>
+  <circle cx="1124" cy="445" r="35" fill="none" stroke="#233047" stroke-width="1.2"/>
+  <circle cx="1124" cy="445" r="20" fill="none" stroke="#233047" stroke-width="1.2"/>
+  <line x1="1074" y1="445" x2="1174" y2="445" stroke="#233047" stroke-width="1"/>
+  <line x1="1124" y1="395" x2="1124" y2="495" stroke="#233047" stroke-width="1"/>
+
+  <line x1="1124" y1="445" x2="1170" y2="405" stroke="#22C55E" stroke-width="3">
+    <animateTransform attributeName="transform" type="rotate" from="0 1124 445" to="360 1124 445" dur="4.8s" repeatCount="indefinite"/>
+  </line>
+
+  <circle cx="1148" cy="424" r="3.5" fill="#38BDF8">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1101" cy="468" r="3.5" fill="#8B5CF6">
+    <animate attributeName="opacity" values="0.25;1;0.25" dur="1.9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1096" cy="421" r="3.5" fill="#F43F5E">
+    <animate attributeName="opacity" values="0.25;1;0.25" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Metrics module -->
+  <rect x="1260" y="364" width="222" height="148" rx="18" fill="#0F172A" stroke="#233047"/>
+  <text x="1278" y="388" fill="#93A4BC" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">SYSTEM METRICS</text>
+
+  <text x="1278" y="414" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">FOCUS</text>
+  <rect x="1338" y="404" width="120" height="12" rx="6" fill="#111827" stroke="#233047"/>
+  <rect x="1338" y="404" width="76" height="12" rx="6" fill="#22C55E">
+    <animate attributeName="width" values="48;108;72;96;76" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="1278" y="438" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">BUILD</text>
+  <rect x="1338" y="428" width="120" height="12" rx="6" fill="#111827" stroke="#233047"/>
+  <rect x="1338" y="428" width="82" height="12" rx="6" fill="#38BDF8">
+    <animate attributeName="width" values="56;112;76;98;82" dur="4.4s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="1278" y="462" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">LEARN</text>
+  <rect x="1338" y="452" width="120" height="12" rx="6" fill="#111827" stroke="#233047"/>
+  <rect x="1338" y="452" width="92" height="12" rx="6" fill="#8B5CF6">
+    <animate attributeName="width" values="60;118;82;102;92" dur="4.7s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="1278" y="486" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">IMPROVE</text>
+  <rect x="1338" y="476" width="120" height="12" rx="6" fill="#111827" stroke="#233047"/>
+  <rect x="1338" y="476" width="74" height="12" rx="6" fill="#F43F5E">
+    <animate attributeName="width" values="50;112;70;88;74" dur="4.3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Activity chart -->
+  <rect x="1498" y="364" width="220" height="148" rx="18" fill="#0F172A" stroke="#233047"/>
+  <text x="1516" y="388" fill="#93A4BC" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">ACTIVITY NODE</text>
+
+  <polyline points="1520,470 1545,450 1570,458 1595,420 1620,434 1645,398 1670,412 1695,390"
+            fill="none" stroke="#38BDF8" stroke-width="3"/>
+  <circle cx="1545" cy="450" r="3" fill="#38BDF8"/>
+  <circle cx="1570" cy="458" r="3" fill="#38BDF8"/>
+  <circle cx="1595" cy="420" r="3" fill="#38BDF8"/>
+  <circle cx="1620" cy="434" r="3" fill="#38BDF8"/>
+  <circle cx="1645" cy="398" r="3" fill="#38BDF8"/>
+  <circle cx="1695" cy="390" r="3" fill="#38BDF8"/>
+
+  <rect x="1520" y="480" width="16" height="14" rx="3" fill="#22C55E">
+    <animate attributeName="height" values="12;34;18;24;14" dur="2.7s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="480;458;474;468;480" dur="2.7s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="1546" y="480" width="16" height="14" rx="3" fill="#38BDF8">
+    <animate attributeName="height" values="16;30;20;36;14" dur="2.9s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="476;460;472;454;480" dur="2.9s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="1572" y="480" width="16" height="14" rx="3" fill="#8B5CF6">
+    <animate attributeName="height" values="20;26;14;30;18" dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="472;466;478;462;474" dur="2.6s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="1598" y="480" width="16" height="14" rx="3" fill="#F43F5E">
+    <animate attributeName="height" values="14;28;22;34;16" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="478;464;470;458;476" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Architecture map -->
+  <rect x="1330" y="124" width="388" height="205" rx="18" fill="#0F172A" stroke="#233047"/>
+  <text x="1348" y="146" fill="#93A4BC" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">SYSTEM ARCHITECTURE</text>
+
+  <!-- Architecture nodes -->
+  <rect x="1360" y="170" width="82" height="34" rx="10" fill="#111827" stroke="#334155"/>
+  <text x="1401" y="191" text-anchor="middle" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">Input</text>
+
+  <rect x="1490" y="170" width="82" height="34" rx="10" fill="#111827" stroke="#334155"/>
+  <text x="1531" y="191" text-anchor="middle" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">Logic</text>
+
+  <rect x="1620" y="170" width="82" height="34" rx="10" fill="#111827" stroke="#334155"/>
+  <text x="1661" y="191" text-anchor="middle" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">Output</text>
+
+  <rect x="1425" y="250" width="82" height="34" rx="10" fill="#111827" stroke="#334155"/>
+  <text x="1466" y="271" text-anchor="middle" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">Testing</text>
+
+  <rect x="1555" y="250" width="82" height="34" rx="10" fill="#111827" stroke="#334155"/>
+  <text x="1596" y="271" text-anchor="middle" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">Deploy</text>
+
+  <line x1="1442" y1="187" x2="1490" y2="187" stroke="#38BDF8" stroke-width="2"/>
+  <line x1="1572" y1="187" x2="1620" y2="187" stroke="#38BDF8" stroke-width="2"/>
+  <line x1="1531" y1="204" x2="1531" y2="250" stroke="#8B5CF6" stroke-width="2"/>
+  <line x1="1507" y1="267" x2="1555" y2="267" stroke="#22C55E" stroke-width="2"/>
+
+  <circle cx="1466" cy="187" r="4" fill="#38BDF8">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1600" cy="267" r="4" fill="#22C55E">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Scanline -->
+  <rect x="994" y="114" width="732" height="2" fill="url(#accent)" opacity="0.55">
+    <animate attributeName="y" values="114;520;114" dur="6.6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Connectors -->
+  <path d="M950 126H978" stroke="#233047" stroke-width="2"/>
+  <path d="M950 210H978" stroke="#233047" stroke-width="2"/>
+  <path d="M950 294H978" stroke="#233047" stroke-width="2"/>
+  <path d="M950 378H978" stroke="#233047" stroke-width="2"/>
+  <path d="M950 462H978" stroke="#233047" stroke-width="2"/>
+
+  <circle cx="950" cy="126" r="4" fill="#22C55E"/>
+  <circle cx="950" cy="210" r="4" fill="#38BDF8"/>
+  <circle cx="950" cy="294" r="4" fill="#8B5CF6"/>
+  <circle cx="950" cy="378" r="4" fill="#F43F5E"/>
+  <circle cx="950" cy="462" r="4" fill="#22C55E"/>
+
+  <!-- Bottom motion line -->
+  <rect x="78" y="570" width="1640" height="3" rx="1.5" fill="#1F2937"/>
+  <rect x="78" y="570" width="300" height="3" rx="1.5" fill="url(#accent)">
+    <animate attributeName="x" values="78;1418;78" dur="7.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
