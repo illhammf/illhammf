@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/header-banner.svg" alt="Ilham Firmansyah Banner" width="100%" />
+</p>
+
 <!-- BANNER -->
 <p align="center">
   <img src="fotoprofileupgrade4.png" alt="Ilham Banner" width="100%" />
