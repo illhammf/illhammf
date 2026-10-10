@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/header-banner.svg" alt="Ilham Firmansyah Banner" width="100%" />
+  <img
+    src="./assets/header-banner-premium.svg"
+    alt="Ilham Firmansyah Developer Banner"
+    width="100%"
+  />
 </p>
 
 <!-- BANNER -->
