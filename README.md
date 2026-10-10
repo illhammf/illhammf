@@ -1,8 +1,8 @@
 <!-- BANNER -->
 <p align="center">
   <img
-    src="./assets/header-banner-v3.svg"
-    alt="Ilham Firmansyah Futuristic Engineering Banner"
+    src="./assets/header-banner-v4.svg"
+    alt="Ilham Firmansyah V4 Futuristic Banner"
     width="100%"
   />
 </p>
@@ -35,7 +35,6 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,ts,rust&theme=dark"/>
 </p>
 
-<br>
 
 <h3 align="center">Web Development</h3>
 <p align="center">
@@ -46,21 +45,18 @@
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,php,laravel,vite&theme=dark"/>
 </p>
 
-<br>
 
 <h3 align="center">Mobile Development</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio&theme=dark"/>
 </p>
 
-<br>
 
 <h3 align="center">IoT & Embedded System</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp,linux&theme=dark"/>
 </p>
 
-<br>
 
 <h3 align="center">Database & Backend</h3>
 <p align="center">
@@ -71,7 +67,6 @@
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,mariadb,sqlite,firebase,nodejs,express&theme=dark"/>
 </p>
 
-<br>
 
 <h3 align="center">DevOps & Infrastructure</h3>
 <p align="center">
@@ -82,7 +77,6 @@
 <img src="https://skillicons.dev/icons?i=docker,git,github,nginx,linux,windows&theme=dark"/>
 </p>
 
-<br>
 
 <h3 align="center">Development Tools</h3>
 <p align="center">
@@ -124,7 +118,6 @@
 
 <br>
 
----
 ## 3D Contribution Graph
 
 <p align="center">
