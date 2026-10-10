@@ -1,7 +1,7 @@
 <p align="center">
   <img
-    src="./assets/header-banner-premium.svg"
-    alt="Ilham Firmansyah Developer Banner"
+    src="./assets/header-banner-v2.svg"
+    alt="Ilham Firmansyah Futuristic Banner"
     width="100%"
   />
 </p>
