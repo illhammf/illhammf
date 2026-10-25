@@ -95,9 +95,7 @@
   </picture>
 </p>
 
-<br>
-
-## Contribution Pacman (still unstable)
+## Contribution Pacman
 
 <p align="center">
   <picture>
@@ -115,8 +113,6 @@
     />
   </picture>
 </p>
-
-<br>
 
 ## 3D Contribution Graph
 
@@ -138,5 +134,4 @@
   </picture>
 </p>
 
-<br>
 ---
