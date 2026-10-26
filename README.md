@@ -12,7 +12,7 @@
 ## About Me
 
 - Student at **Universitas Esa Unggul**
-- Passionate about **Programming & Technology**
+- Passionate about **Programming, Teaching & Technology**
 - Currently building projects and improving skills
 - Love exploring new tech and challenges
 - **Always learn** from mistakes
@@ -114,7 +114,7 @@
   </picture>
 </p>
 
-## 3D Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <picture>
