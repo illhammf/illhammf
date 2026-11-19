@@ -1,9 +1,5 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="Kolase Pramuka.png" alt="Ilham Banner" width="95%">
-</p>
-
-<p align="center">
   <img
     src="./assets/header-banner-v4.svg"
     alt="Ilham Firmansyah V4 Futuristic Banner"
