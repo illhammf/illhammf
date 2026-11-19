@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-![Foto] (./assets/KolasePramuka.png)
+<img src="KolasePramuka.png" alt="Ilham Banner" width="100%" />
   />
 </p>
 
