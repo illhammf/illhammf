@@ -1,5 +1,10 @@
 <!-- BANNER -->
 <p align="center">
+![Foto] (./assets/KolasePramuka.png)
+  />
+</p>
+
+<p align="center">
   <img
     src="./assets/header-banner-v4.svg"
     alt="Ilham Firmansyah V4 Futuristic Banner"
