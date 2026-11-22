@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="Kolase Pramuka.png" alt="Ilham Banner" width="98%">
+  <img src="Kolase Pramuka.png" alt="Ilham Banner" width="100%">
 </p>
 
 ---
