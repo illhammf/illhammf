@@ -8,7 +8,11 @@
 
 ---
 
-## Contributions
+<div align="center">
+  
+# Contributions
+
+</div>
 
 <p align="center">
   <picture>
