@@ -1,11 +1,14 @@
 <!-- BANNER -->
+
+---
+
 <p align="center">
   <img src="Kolase Pramuka.png" alt="Ilham Banner" width="100%">
 </p>
 
 ---
 
-## Contribution Snake
+## Contributions
 
 <p align="center">
   <picture>
@@ -14,8 +17,6 @@
     <img alt="Snake animation" src="https://raw.githubusercontent.com/illhammf/illhammf/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
-## Contribution Pacman
 
 <p align="center">
   <picture>
@@ -33,8 +34,6 @@
     />
   </picture>
 </p>
-
-## Contribution Graph
 
 <p align="center">
   <picture>
